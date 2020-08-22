@@ -1,0 +1,29 @@
+{
+  "name": "pm-manager",
+  "version": "1.0.0",
+  "description": "clustering tool for node applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Mohamed Kamel",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammedkamel/pm-manager.git"
+  },
+  "keywords": [
+    "nodejs",
+    "clusters",
+    "clustering",
+    "scaling",
+    "scale"
+  ],
+  "bugs": {
+    "url": "https://github.com/muhammedkamel/pm-manager/issues"
+  },
+  "homepage": "https://github.com/muhammedkamel/pm-manager#readme"
+}
