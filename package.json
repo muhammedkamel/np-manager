@@ -2,10 +2,10 @@
   "name": "pm-manager",
   "version": "1.0.0",
   "description": "clustering tool for node applications",
-  "main": "index.js",
+  "main": "cluster.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node cluster.js"
   },
   "author": "Mohamed Kamel",
   "license": "ISC",
